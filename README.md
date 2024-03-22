@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliusb643
 - 👀 I’m interested in ... Data Analytics and Creative Problem Solving
-- 🌱 I’m currently learning ... SQL and SQLAlchemy
+- 🌱 I’m currently learning ... NoSQL and Data Collection
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... www.linkedin.com/in/juliusb643 
 - 😄 Pronouns: ... He/Him
